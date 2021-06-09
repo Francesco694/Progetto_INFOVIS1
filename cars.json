@@ -1,0 +1,63 @@
+[
+    {
+        "lunghezza": 100,
+        "dim_alettone_ant": 50,
+        "dim_ruote": 30,
+        "dim_alettone_pos": 60
+    },
+    {
+        "lunghezza": 115,
+        "dim_alettone_ant": 45,
+        "dim_ruote": 20,
+        "dim_alettone_pos": 65
+    },
+    {
+        "lunghezza": 95,
+        "dim_alettone_ant": 60,
+        "dim_ruote": 25,
+        "dim_alettone_pos": 50
+    },
+    {
+        "lunghezza": 85,
+        "dim_alettone_ant": 50,
+        "dim_ruote": 30,
+        "dim_alettone_pos": 50
+    },
+    {
+        "lunghezza": 90,
+        "dim_alettone_ant": 40,
+        "dim_ruote": 25,
+        "dim_alettone_pos": 60
+    },
+    {
+        "lunghezza": 80,
+        "dim_alettone_ant": 35,
+        "dim_ruote": 30,
+        "dim_alettone_pos": 65
+    },
+    {
+        "lunghezza": 90,
+        "dim_alettone_ant": 50,
+        "dim_ruote": 40,
+        "dim_alettone_pos": 55
+    },
+    {
+        "lunghezza": 100,
+        "dim_alettone_ant": 50,
+        "dim_ruote": 20,
+        "dim_alettone_pos": 70
+    },
+    {
+        "lunghezza": 105,
+        "dim_alettone_ant": 60,
+        "dim_ruote": 25,
+        "dim_alettone_pos": 75
+    },
+    {
+        "lunghezza": 110,
+        "dim_alettone_ant": 30,
+        "dim_ruote": 35,
+        "dim_alettone_pos": 80
+    }
+]
+
